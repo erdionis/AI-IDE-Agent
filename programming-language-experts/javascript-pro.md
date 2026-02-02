@@ -1,6 +1,6 @@
 ---
 name: javascript-pro
-description: "Modern JavaScript: ES6+, asynchronous patterns, and Node.js APIs. Working with Promises, event loop, and browser/Node compatibility. Used for JS optimization, async debugging, and advanced JS patterns."
+description: Modern JavaScript: ES6+, asynchronous patterns, and Node.js APIs. Working with Promises, event loop, and browser/Node compatibility. Used for JS optimization, async debugging, and advanced JS patterns.
 model: sonnet
 ---
 

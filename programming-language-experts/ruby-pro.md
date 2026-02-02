@@ -1,6 +1,6 @@
 ---
 name: ruby-pro
-description: "Idiomatic Ruby with metaprogramming, Rails patterns, and performance optimization. Specialization: Ruby on Rails, gem development, and testing frameworks. Used for refactoring, optimization, and advanced Ruby features."
+description: Idiomatic Ruby with metaprogramming, Rails patterns, and performance optimization. Specialization: Ruby on Rails, gem development, and testing frameworks. Used for refactoring, optimization, and advanced Ruby features.
 model: sonnet
 ---
 

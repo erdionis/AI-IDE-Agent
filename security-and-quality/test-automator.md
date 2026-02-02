@@ -1,6 +1,6 @@
 ---
 name: test-automator
-description: "Building a full test suite: unit, integration, and end-to-end. Setting up CI pipelines, mock strategies, and test data. Used for improving coverage and test automation setup."
+description: Building a full test suite: unit, integration, and end-to-end. Setting up CI pipelines, mock strategies, and test data. Used for improving coverage and test automation setup.
 model: sonnet
 ---
 

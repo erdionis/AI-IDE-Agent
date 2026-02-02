@@ -1,6 +1,6 @@
 ---
 name: java-pro
-description: "Modern Java: streams, concurrency, and JVM optimization. Working with Spring Boot, reactive programming, and enterprise patterns. Used for performance tuning, concurrent code, and complex enterprise solutions."
+description: Modern Java: streams, concurrency, and JVM optimization. Working with Spring Boot, reactive programming, and enterprise patterns. Used for performance tuning, concurrent code, and complex enterprise solutions.
 model: sonnet
 ---
 

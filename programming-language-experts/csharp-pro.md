@@ -1,6 +1,6 @@
 ---
 name: csharp-pro
-description: "Modern C#: records, pattern matching, and async/await. Optimizing .NET applications, applying enterprise patterns, and comprehensive testing. Used for refactoring, optimization, and complex .NET solutions."
+description: Modern C#: records, pattern matching, and async/await. Optimizing .NET applications, applying enterprise patterns, and comprehensive testing. Used for refactoring, optimization, and complex .NET solutions.
 model: sonnet
 ---
 

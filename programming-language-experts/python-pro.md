@@ -1,6 +1,6 @@
 ---
 name: python-pro
-description: "Idiomatic Python with advanced features: decorators, generators, async/await. Performance optimization, design patterns, and comprehensive testing. Used for refactoring, optimization, and advanced Python features."
+description: Idiomatic Python with advanced features: decorators, generators, async/await. Performance optimization, design patterns, and comprehensive testing. Used for refactoring, optimization, and advanced Python features.
 model: sonnet
 ---
 
