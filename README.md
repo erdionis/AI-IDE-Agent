@@ -1,246 +1,244 @@
-# Коллекция подсказок для интеллектуальных агентов Claude/Cursor/trae (AI IDE)
+# Prompt Collection for Intelligent Agents Claude/Cursor/Trae (AI IDE)
 
-> 🚀 Полный сборник из 61 подсказки для профессиональных областей, разработанный для Claude/Cursor/trae и охватывающий темы от языков программирования до бизнес‑аналитики.
+> 🚀 A complete set of 61 professional prompts designed for Claude/Cursor/Trae, covering topics from programming languages to business analytics.
 
-## 📋 Содержание
+## 📋 Contents
 
-- Обзор проекта
-- Структура категорий
-- Руководство по использованию
-- Быстрый старт
-- Описание категорий
-- Лучшие практики
-- Руководство по вкладу
+- Project Overview
+- Category Structure
+- Usage Guide
+- Quick Start
+- Category Descriptions
+- Best Practices
+- Contribution Guide
 
-## 🎯 Обзор проекта
+## 🎯 Project Overview
 
-Сборник включает 61 подсказку для интеллектуальных агентов, каждая из которых тщательно спроектирована и оптимизирована под конкретную профессиональную область. Все материалы представлены на русском языке для удобства русскоязычных пользователей.
+This collection includes 61 prompts for intelligent agents, each carefully designed and optimized for a specific professional domain. All materials are structured consistently and easy to reuse.
 
-### ✨ Основные особенности
+### ✨ Key Features
 
-- 🎯 Профессиональная точность: каждая подсказка оптимизирована под свою область
-- 🌏 Русскоязычный интерфейс: все материалы на русском, удобно для восприятия
-- 📚 Четкая классификация: 6 основных категорий для удобного поиска
-- 🔧 Готово к использованию: скопируйте и вставьте в Claude/Cursor/trae
-- 📖 Подробные описания: каждая подсказка включает знания и лучшие практики
+- 🎯 Professional accuracy: each prompt is optimized for its domain
+- 🧭 Clear classification: 6 core categories for fast navigation
+- 🔧 Ready to use: copy and paste into Claude/Cursor/Trae
+- 📖 Detailed guidance: each prompt includes knowledge and best practices
 
-## 📁 Структура категорий
+## 📁 Category Structure
 
 ```
-Коллекция подсказок для интеллектуальных агентов claude_cursor_trae/
+Prompt collection for intelligent agents claude_cursor_trae/
 ├── 📖 README.md
-├── 🖥️  programming-language-experts (Эксперты по языкам программирования) (13 файлов)
-├── ☁️  cloud-and-devops (Облако и DevOps)                                (5 файлов)
-├── 🤖  data-and-ai (Данные и AI)                                         (8 файлов)
-├── 💼  business-and-product (Бизнес и продукт)                           (24 файла)
-├── 🔒  security-and-quality (Безопасность и качество)                    (6 файлов)
-└── 📱  mobile-and-game-development (Мобайл и геймдев)                    (5 файлов)
+├── 🖥️  programming-language-experts (13 files)
+├── ☁️  cloud-and-devops (5 files)
+├── 🤖  data-and-ai (8 files)
+├── 💼  business-and-product (24 files)
+├── 🔒  security-and-quality (6 files)
+└── 📱  mobile-and-game-development (5 files)
 ```
 
-## 🚀 Руководство по использованию
+## 🚀 Usage Guide
 
-### 1. Выберите профессиональную область
-Выберите подходящую категорию в зависимости от задачи:
-- Разработка → Эксперты по языкам программирования
-- Облако и развертывание → Облако и DevOps
-- Аналитика данных → Данные и AI
-- Проектирование продукта → Бизнес и продукт
-- Тестирование и безопасность → Безопасность и качество
-- Мобильные приложения/игры → Мобайл и геймдев
+### 1. Pick a professional area
+Choose the category that matches your task:
+- Development → Programming Language Experts
+- Cloud & Deployment → Cloud and DevOps
+- Data Analysis → Data and AI
+- Product Design → Business and Product
+- Testing & Security → Security and Quality
+- Mobile Apps/Games → Mobile and Game Development
 
-### 2. Скопируйте подсказку
-Откройте файл нужного эксперта и скопируйте его содержимое целиком.
+### 2. Copy the prompt
+Open the expert file and copy its contents entirely.
 
-### 3. Используйте в Claude/Cursor/trae
-Вставьте подсказку в диалог Claude/Cursor/trae и опишите свою задачу.
+### 3. Use in Claude/Cursor/Trae
+Paste the prompt into your Claude/Cursor/Trae session and describe your task.
 
-### 4. Получите профессиональный ответ
-Claude предоставит решение, учитывая профессиональные настройки выбранной подсказки.
+### 4. Get a professional answer
+Claude will provide a solution tailored to the selected expert’s settings.
 
-## ⚡ Быстрый старт
+## ⚡ Quick Start
 
-### Пример: Эксперт по Python
+### Example: Python Expert
 
-1. Откройте файл «programming-language-experts/python-pro.md»
-2. Скопируйте содержимое
-3. Вставьте в Claude/Cursor/trae
-4. Опишите свой вопрос по Python
-5. Получите профессиональное решение
+1. Open: programming-language-experts/python-pro.md  
+2. Copy content  
+3. Paste into Claude/Cursor/Trae  
+4. Describe your Python question  
+5. Receive a professional solution
 
-### Пример: Облачный архитектор
+### Example: Cloud Architect
 
-1. Откройте файл «cloud-and-devops/cloud-architect.md»
-2. Скопируйте содержимое
-3. Вставьте в Claude/Cursor/trae
-4. Опишите требуемую архитектуру
-5. Получите проектное решение
+1. Open: cloud-and-devops/cloud-architect.md  
+2. Copy content  
+3. Paste into Claude/Cursor/Trae  
+4. Describe the required architecture  
+5. Receive an architectural design
 
-## 📚 Описание категорий
+## 📚 Category Descriptions
 
-### 🖥️ Эксперты по языкам программирования (13 файлов)
+### 🖥️ Programming Language Experts (13 files)
 
-Подходит для задач разработки, оптимизации кода и использования возможностей языка.
+For development tasks, code optimization, and language features.
 
-| Файл | Область | Основные особенности |
-|------|--------|----------------------|
-| csharp-pro.md | .NET разработка | Unity, ASP.NET, асинхронность |
-| cpp-pro.md | Системное программирование | Управление памятью, STL, RAII |
-| c-pro.md | Низкоуровневая разработка | Указатели, память, системные вызовы |
-| elixir-pro.md | Функциональное программирование | OTP, Phoenix, параллелизм |
-| golang-pro.md | Облачная разработка | Параллелизм, микросервисы, производительность |
-| java-pro.md | Корпоративная разработка | Spring, параллелизм, JVM |
-| javascript-pro.md | Frontend | ES6+, асинхронность, фреймворки |
-| php-pro.md | Web-разработка | Laravel, оптимизация производительности |
-| python-pro.md | Data Science | Асинхронность, декораторы, тесты |
-| ruby-pro.md | Web-разработка | Rails, метапрограммирование, DSL |
-| rust-pro.md | Системное программирование | Безопасность памяти, параллелизм, скорость |
-| scala-pro.md | Функциональное программирование | Spark, Akka, типовые системы |
-| typescript-pro.md | Frontend | Типы, дженерики, фреймворки |
+| File | Domain | Highlights |
+|------|--------|------------|
+| csharp-pro.md | .NET development | Unity, ASP.NET, async |
+| cpp-pro.md | Systems programming | Memory, STL, RAII |
+| c-pro.md | Low-level development | Pointers, memory, syscalls |
+| elixir-pro.md | Functional programming | OTP, Phoenix, concurrency |
+| golang-pro.md | Cloud development | Concurrency, microservices, performance |
+| java-pro.md | Enterprise development | Spring, concurrency, JVM |
+| javascript-pro.md | Frontend | ES6+, async, frameworks |
+| php-pro.md | Web development | Laravel, performance optimization |
+| python-pro.md | Data science | Async, decorators, testing |
+| ruby-pro.md | Web development | Rails, metaprogramming, DSL |
+| rust-pro.md | Systems programming | Memory safety, concurrency, speed |
+| scala-pro.md | Functional programming | Spark, Akka, type systems |
+| typescript-pro.md | Frontend | Types, generics, frameworks |
 
-### ☁️ Облако и DevOps (5 файлов)
+### ☁️ Cloud and DevOps (5 files)
 
-Подходит для развертывания в облаке, автоматизации DevOps и инфраструктуры.
+For cloud deployment, DevOps automation, and infrastructure.
 
-| Файл | Область | Основные особенности |
-|------|--------|----------------------|
-| cloud-architect.md | Архитектура облака | Мульти‑облако, микросервисы, масштабируемость |
-| devops-troubleshooter.md | Эксперт по операционке | Мониторинг, логи, оптимизация |
-| mlops-engineer.md | Эксплуатация ML | Деплой моделей, трекинг экспериментов, автоматизация |
-| terraform-specialist.md | IaC | Модули, управление состоянием, мульти‑среды |
-| deployment-engineer.md | Автоматизация деплоя | CI/CD, контейнеры, blue‑green |
+| File | Domain | Highlights |
+|------|--------|------------|
+| cloud-architect.md | Cloud architecture | Multi-cloud, microservices, scalability |
+| devops-troubleshooter.md | Ops expert | Monitoring, logs, optimization |
+| mlops-engineer.md | ML operations | Model deploy, experiment tracking, automation |
+| terraform-specialist.md | IaC | Modules, state management, multi-env |
+| deployment-engineer.md | Deployment automation | CI/CD, containers, blue-green |
 
-### 🤖 Данные и AI (8 файлов)
+### 🤖 Data and AI (8 files)
 
-Подходит для анализа данных, машинного обучения и приложений ИИ.
+For data analysis, machine learning, and AI applications.
 
-| Файл | Область | Основные особенности |
-|------|--------|----------------------|
-| ai-engineer.md | Приложения ИИ | Интеграция моделей, API‑дизайн, оптимизация |
-| data-engineer.md | Обработка данных | ETL, пайплайны, качество |
-| data-scientist.md | Аналитика | Статистика, визуализация, инсайты |
-| database-admin.md | Управление БД | Оптимизация, бэкапы, безопасность |
-| database-optimizer.md | Оптимизация БД | Запросы, индексы, мониторинг |
-| ml-engineer.md | Машинное обучение | Тренировка, фичи, деплой |
-| prompt-engineer.md | Оптимизация подсказок | Дизайн, оценка, улучшения |
-| search-specialist.md | Поисковые системы | Алгоритмы, релевантность, производительность |
+| File | Domain | Highlights |
+|------|--------|------------|
+| ai-engineer.md | AI applications | Model integration, API design, optimization |
+| data-engineer.md | Data processing | ETL, pipelines, quality |
+| data-scientist.md | Analytics | Statistics, visualization, insights |
+| database-admin.md | DB management | Optimization, backups, security |
+| database-optimizer.md | DB optimization | Queries, indexes, monitoring |
+| ml-engineer.md | Machine learning | Training, features, deploy |
+| prompt-engineer.md | Prompt optimization | Design, evaluation, improvement |
+| search-specialist.md | Search systems | Algorithms, relevance, performance |
 
-### 💼 Бизнес и продукт (24 файла)
+### 💼 Business and Product (24 files)
 
-Подходит для дизайна продукта, бизнес‑аналитики, UX и технической документации.
+For product design, business analytics, UX, and technical documentation.
 
-| Файл | Область | Основные особенности |
-|------|--------|----------------------|
-| api-documenter.md | API | Спецификации, примеры, тесты |
-| graphql-architect.md | GraphQL | Схемы, производительность, безопасность |
-| mermaid-expert.md | Диаграммы | Флоучарты, последовательности, архитектура |
-| sql-pro.md | Базы данных | Сложные запросы, оптимизация, дизайн |
-| ui-ux-designer.md | Интерфейсы | UX, прототипирование, доступность |
-| business-analyst.md | Аналитика | Требования, процессы, KPI |
-| content-marketer.md | Маркетинг | SEO, стратегия, конверсия |
-| customer-support.md | Поддержка | Решение проблем, коммуникация, инструменты |
-| quant-analyst.md | Финансы | Модели, риски, стратегии |
-| risk-manager.md | Риски | Оценка, контроль, мониторинг |
-| legal-advisor.md | Комплаенс | Политики конфиденциальности, риски |
-| sales-automator.md | Продажи | CRM, процессы, аналитика |
-| network-engineer.md | Сети | Дизайн, безопасность, мониторинг |
-| docs-architect.md | Документация | Структура, управление, инструменты |
-| architect-reviewer.md | Оценка | Практики, улучшения |
-| backend-architect.md | Бэкенд | Архитектура, API, производительность |
-| frontend-developer.md | Frontend | Адаптивность, состояние, производительность |
-| performance-engineer.md | Оптимизация | Тесты, узкие места, улучшения |
-| dx-optimizer.md | Опыт разработчика | Инструменты, процессы, документация |
-| tutorial-engineer.md | Туториалы | Путь обучения, примеры, оценка |
-| reference-builder.md | Справочная документация | Практики, примеры, гиды |
-| context-manager.md | Контент‑менеджмент | Организация, знания, поиск |
-| legacy-modernizer.md | Модернизация | Миграции, рефакторинг, интеграции |
-| payment-integration.md | Платежи | Шлюзы, безопасность, интеграция |
+| File | Domain | Highlights |
+|------|--------|------------|
+| api-documenter.md | API | Specs, examples, tests |
+| graphql-architect.md | GraphQL | Schemas, performance, security |
+| mermaid-expert.md | Diagrams | Flowcharts, sequences, architecture |
+| sql-pro.md | Databases | Complex queries, optimization, design |
+| ui-ux-designer.md | Interfaces | UX, prototyping, accessibility |
+| business-analyst.md | Analytics | Requirements, processes, KPI |
+| content-marketer.md | Marketing | SEO, strategy, conversion |
+| customer-support.md | Support | Issue resolution, communication, tooling |
+| quant-analyst.md | Finance | Models, risks, strategies |
+| risk-manager.md | Risk | Assessment, control, monitoring |
+| legal-advisor.md | Compliance | Privacy policies, risks |
+| sales-automator.md | Sales | CRM, processes, analytics |
+| network-engineer.md | Networking | Design, security, monitoring |
+| docs-architect.md | Documentation | Structure, management, tooling |
+| architect-reviewer.md | Review | Practices, improvements |
+| backend-architect.md | Backend | Architecture, APIs, performance |
+| frontend-developer.md | Frontend | Responsiveness, state, performance |
+| performance-engineer.md | Optimization | Tests, bottlenecks, improvements |
+| dx-optimizer.md | Developer experience | Tools, processes, documentation |
+| tutorial-engineer.md | Tutorials | Learning path, examples, evaluation |
+| reference-builder.md | Reference docs | Practices, examples, guides |
+| context-manager.md | Content management | Organization, knowledge, search |
+| legacy-modernizer.md | Modernization | Migrations, refactoring, integrations |
+| payment-integration.md | Payments | Gateways, security, integration |
 
-### 🔒 Безопасность и качество (6 файлов)
+### 🔒 Security and Quality (6 files)
 
-Подходит для аудита безопасности, качества кода и тестовой автоматизации.
+For security audits, code quality, and test automation.
 
-| Файл | Область | Основные особенности |
-|------|--------|----------------------|
-| security-auditor.md | Аудит | Сканирование уязвимостей, риски, комплаенс |
-| code-reviewer.md | Ревью | Качество, практики, безопасность |
-| error-detective.md | Диагностика | Поиск причин, исправления |
-| test-automator.md | Автотесты | CI/CD, покрытие |
-| debugger.md | Отладка | Диагностика, производительность, исправления |
-| incident-responder.md | Инциденты | Экстренные меры, восстановление, улучшения |
+| File | Domain | Highlights |
+|------|--------|------------|
+| security-auditor.md | Audit | Vulnerability scans, risks, compliance |
+| code-reviewer.md | Review | Quality, practices, security |
+| error-detective.md | Diagnostics | Root cause, fixes |
+| test-automator.md | Test automation | CI/CD, coverage |
+| debugger.md | Debugging | Diagnostics, performance, fixes |
+| incident-responder.md | Incidents | Emergency actions, recovery, improvements |
 
-### 📱 Мобайл и геймдев (5 файлов)
+### 📱 Mobile and Game Development (5 files)
 
-Подходит для мобильной разработки, геймдева и кроссплатформенных решений.
+For mobile development, game dev, and cross-platform solutions.
 
-| Файл | Область | Основные особенности |
-|------|--------|----------------------|
-| flutter-expert.md | Кроссплатформа | Flutter, производительность, нативная интеграция |
-| ios-developer.md | iOS | Swift, UIKit, оптимизация |
-| mobile-developer.md | Мобайл | Кроссплатформа, производительность, UX |
-| unity-developer.md | Игры | C#, оптимизация, ресурсы |
-| minecraft-bukkit-pro.md | Плагины | Java, Bukkit API, серверы |
+| File | Domain | Highlights |
+|------|--------|------------|
+| flutter-expert.md | Cross-platform | Flutter, performance, native integration |
+| ios-developer.md | iOS | Swift, UIKit, optimization |
+| mobile-developer.md | Mobile | Cross-platform, performance, UX |
+| unity-developer.md | Games | C#, optimization, assets |
+| minecraft-bukkit-pro.md | Plugins | Java, Bukkit API, servers |
 
-## 💡 Лучшие практики
+## 💡 Best Practices
 
-### 1. Выбирайте подходящего эксперта
-- Подбирайте эксперта под конкретную задачу
-- Комбинируйте экспертов для комплексных решений
-- Для сложных проектов используйте экспертов по этапам
+### 1. Choose the right expert
+- Match the expert to the specific task
+- Combine experts for complex solutions
+- For complex projects, use experts by phases
 
-### 2. Предоставляйте подробности
-- Опишите контекст и требования
-- Приложите код, ошибки или данные
-- Уточните желаемый формат вывода
+### 2. Provide details
+- Describe context and requirements
+- Attach code, errors, or data
+- Clarify the desired output format
 
-### 3. Итеративно улучшайте
-- Уточняйте решения по результатам
-- Оставляйте обратную связь
-- Доведите до соответствия ожиданиям
+### 3. Iterate and improve
+- Refine solutions based on results
+- Provide feedback
+- Align outcomes with expectations
 
-### 4. Сохраняйте полезные результаты
-- Сохраняйте лучшие решения как референс
-- Формируйте личную базу знаний
-- Делитесь с командой
+### 4. Keep useful outcomes
+- Save best solutions as references
+- Build a personal knowledge base
+- Share with the team
 
-## 🤝 Руководство по вкладу
+## 🤝 Contribution Guide
 
-### Как внести вклад
-1. Сделайте Fork репозитория
-2. Создайте файл подсказки для нового эксперта
-3. Обеспечьте качество и профессиональность содержания
-4. Отправьте Pull Request
+### How to contribute
+1. Fork the repository  
+2. Create a prompt file for a new expert  
+3. Ensure professional quality of the content  
+4. Open a Pull Request
 
-### Требования к вкладу
-- Используйте русский язык
-- Включайте полное описание профессиональной области
-- Предоставляйте практические методы и формат вывода
-- Соблюдайте существующую схему именования файлов
+### Contribution requirements
+- Use clear, concise English
+- Include a full description of the domain
+- Provide practical methods and output formats
+- Follow the existing naming scheme
 
-## 📊 Статистика
+## 📊 Statistics
 
-- Всего файлов: 61 Markdown + 1 README = 62
-- Количество категорий: 6
-- Язык: все файлы переведены на русский
-- Формат: стандартный Markdown с YAML‑метаданными
-- Покрытие: разработка, облако, дата‑сайенс, продукт, безопасность, мобайл
+- Total files: 61 Markdown + 1 README = 62
+- Categories: 6
+- Language: all prompts in English
+- Format: standard Markdown with YAML front‑matter
+- Coverage: development, cloud, data science, product, security, mobile
 
-## 🔄 История обновлений
+## 🔄 Changelog
 
-- ✅ Все файлы переведены на русский язык
-- ✅ Пересобрана структура по профессиональным областям
-- ✅ Оптимизирована организация для быстрого поиска
-- ✅ Добавлены подробные инструкции и лучшие практики
-- ✅ Уточнены описания категорий и типовые сценарии
+- ✅ Structure organized by professional domains
+- ✅ Clear navigation and best practices
+- ✅ Detailed category descriptions and typical scenarios
+- ✅ Consistent naming across files and directories
 
-## 📞 Поддержка и обратная связь
+## 📞 Support & Feedback
 
-Если вы столкнулись с проблемами или хотите предложить улучшения:
-- Создайте Issue
-- Откройте Pull Request
-- Поделитесь опытом и практиками
+If you encounter issues or want to suggest improvements:
+- Open an Issue
+- Create a Pull Request
+- Share your experience and practices
 
 ---
 
-Сборник охватывает профессиональные области от программирования до бизнес‑аналитики и предоставляет качественные подсказки для разных ролей. При правильном использовании вы получите более профессиональную и точную поддержку от AI‑ассистента.
+This collection spans domains from programming to business analytics and provides high‑quality prompts for different roles. Used correctly, you will get more professional and precise support from your AI assistant.
 
-**⭐ Если сборник оказался полезным — поставьте звезду!**
+**⭐ If this collection is useful — give it a star!**
