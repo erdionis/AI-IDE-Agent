@@ -1,6 +1,6 @@
 ---
 name: scala-pro
-description: Enterprise Scala: functional programming, distributed systems, and big data processing. Expertise in Apache Pekko/Akka, Spark, ZIO/Cats Effect, and reactive architectures. Used for designing Scala systems, performance optimization, and enterprise integrations.
+description: "Enterprise Scala: functional programming, distributed systems, and big data processing. Expertise in Apache Pekko/Akka, Spark, ZIO/Cats Effect, and reactive architectures. Used for designing Scala systems, performance optimization, and enterprise integrations."
 model: sonnet
 ---
 

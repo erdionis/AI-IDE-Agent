@@ -1,6 +1,6 @@
 ---
 name: error-detective
-description: Finding errors in logs and code: patterns, stack traces, and exceptions. Correlating errors across systems and identifying root causes. Used for debugging, log analysis, and investigating production issues.
+description: "Finding errors in logs and code: patterns, stack traces, and exceptions. Correlating errors across systems and identifying root causes. Used for debugging, log analysis, and investigating production issues."
 model: sonnet
 ---
 

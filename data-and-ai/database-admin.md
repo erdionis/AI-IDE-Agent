@@ -1,6 +1,6 @@
 ---
 name: database-admin
-description: Database administration: operations, backups, replication, and monitoring. Managing user privileges, maintenance, and disaster recovery. Used for DB setup, operational tasks, and recovery procedures.
+description: "Database administration: operations, backups, replication, and monitoring. Managing user privileges, maintenance, and disaster recovery. Used for DB setup, operational tasks, and recovery procedures."
 model: sonnet
 ---
 
